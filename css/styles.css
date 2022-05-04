@@ -1,0 +1,162 @@
+body {
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+}
+
+h1 {
+    margin: 50px auto 0;
+    font-size: 3rem;
+    color: #66BFBF;
+    line-height: 2;
+    font-family: 'Sacramento', sans-serif;
+
+}
+
+h2 {
+    font-family: 'Radio Canada';
+    font-size: 2rem;
+    color: #66BFBF;
+    font-weight: 100;
+}
+
+h3 {
+    font-family: 'Radio Canada';
+    color: #11999E;
+}
+
+a {
+    color: #11999E;
+    margin: 10px 20px;
+    line-height: 4;
+    text-decoration: none;
+    font-family: 'Lato';
+    font-weight: bold;
+}
+
+a:hover{
+    color: #EAF6F6;
+}
+
+p {
+    font-family: 'Radio Canada';
+    color: #40514E;
+    font-weight: 550;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.dev-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.design-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+
+}
+
+.top-container {
+    background-color: #e4f8f5;
+    padding-top: 100px;
+    position: relative;
+}
+
+.middle-container{
+    margin: 100px 0 50px;
+}
+
+.stack {
+    text-decoration: underline;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 230px;
+
+}
+
+.top-cloud {
+    position: absolute;
+    right: 320px;
+    top: 50px;
+
+}
+
+hr {
+    width: 5%;
+    border-style: none;
+    border-top: dotted;
+    border-width: 8px;
+    border-color: #EAF6F6;
+    margin: 100px auto;
+}
+
+.account {
+    line-height: 2;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+}
+
+.copyright {
+    color: #EAF6F6;
+    font-size: 0.75em;
+    padding: 20px 0;
+}
+
+.myself {
+    line-height: 1.7;
+    width: 30%;
+    margin: auto;
+}
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 20;
+    -moz-border-radius: 20;
+    border-radius: 20px;
+    font-family: 'Lato';
+    color: #ffffff;
+    font-size: 16px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+
+
+
+.kader {
+    height: 150px;
+}
+
+.account {
+    margin: 40px auto 40px;
+    width: 40%;
+    line-height: 2;
+}
